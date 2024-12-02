@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571175655880",
+    "project_id": "proyecto-mondongo",
+    "storage_bucket": "proyecto-mondongo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571175655880:android:8668ddaf94d68d2d93c8fd",
+        "android_client_info": {
+          "package_name": "com.stomas.mondongo_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPDFN_lJuOBLOT-NyA_UmGWJxHrAEgcf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
